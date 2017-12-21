@@ -13,6 +13,7 @@
 		8E32369D1FEB5A7C00131DFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E32369C1FEB5A7C00131DFF /* Assets.xcassets */; };
 		8E3236A01FEB5A7C00131DFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E32369E1FEB5A7C00131DFF /* LaunchScreen.storyboard */; };
 		8E3236AB1FEB5A7C00131DFF /* ToolIntegrationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3236AA1FEB5A7C00131DFF /* ToolIntegrationTests.swift */; };
+		8E3236B61FEB5B6B00131DFF /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3236B51FEB5B6B00131DFF /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8E3236A61FEB5A7C00131DFF /* ToolIntegrationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToolIntegrationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E3236AA1FEB5A7C00131DFF /* ToolIntegrationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolIntegrationTests.swift; sourceTree = "<group>"; };
 		8E3236AC1FEB5A7C00131DFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E3236B51FEB5B6B00131DFF /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				8E32369C1FEB5A7C00131DFF /* Assets.xcassets */,
 				8E32369E1FEB5A7C00131DFF /* LaunchScreen.storyboard */,
 				8E3236A11FEB5A7C00131DFF /* Info.plist */,
+				8E3236B51FEB5B6B00131DFF /* HomeViewController.swift */,
 			);
 			path = ToolIntegration;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 			files = (
 				8E3236981FEB5A7C00131DFF /* ViewController.swift in Sources */,
 				8E3236961FEB5A7C00131DFF /* AppDelegate.swift in Sources */,
+				8E3236B61FEB5B6B00131DFF /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
